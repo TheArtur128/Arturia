@@ -1,5 +1,5 @@
 import sys
-sys.path.append("E:\Python\My Library")
+sys.path.append("C:\Python\My-Library")
 from random import randint as random
 from Library import remove_wich_list
 from Library import found_in_list
